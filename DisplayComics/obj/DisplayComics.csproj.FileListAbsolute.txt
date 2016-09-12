@@ -1,0 +1,24 @@
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.exe
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.pdb
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\bin\Debug\DisplayComics.exe
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\bin\Debug\DisplayComics.pdb
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\bin\Debug\Find_Comics.exe
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\bin\Debug\Find_Comics.pdb
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.DisplayComicSeries.resources
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.formControlPanel.resources
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.PictureDisplay.resources
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.Properties.Resources.resources
+C:\Documents and Settings\wecksr\My Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.csproj.GenerateResource.Cache
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.exe
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.pdb
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\bin\Debug\DisplayComics.exe
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\bin\Debug\DisplayComics.pdb
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\bin\Debug\Find_Comics.exe
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\bin\Debug\Find_Comics.pdb
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.DisplayComicSeries.resources
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.formControlPanel.resources
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.PictureDisplay.resources
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.Properties.Resources.resources
+C:\Users\wecksr\Documents\Visual Studio 2005\Projects\DisplayComics\DisplayComics\obj\Debug\DisplayComics.csproj.GenerateResource.Cache

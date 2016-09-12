@@ -1,0 +1,12 @@
+bin\Debug\DisplayComics.exe
+bin\Debug\DisplayComics.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DisplayComics.formControlPanel.resources
+obj\Debug\DisplayComics.Properties.Resources.resources
+obj\Debug\DisplayComics.csproj.GenerateResource.Cache
+obj\Debug\DisplayComics.exe
+obj\Debug\DisplayComics.pdb
+obj\Debug\DisplayComics.PictureDisplay.resources
+obj\Debug\DisplayComics.DisplayComicSeries.resources
+bin\Debug\Find_Comics.exe
+bin\Debug\Find_Comics.pdb

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MyComics" targetNamespace="http://tempuri.org/MyComics.xsd" xmlns:mstns="http://tempuri.org/MyComics.xsd" xmlns="http://tempuri.org/MyComics.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MyComics" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="MyComics" msprop:Generator_DataSetName="MyComics">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MyComic" msprop:Generator_UserTableName="MyComic" msprop:Generator_RowDeletedName="MyComicRowDeleted" msprop:Generator_RowChangedName="MyComicRowChanged" msprop:Generator_RowClassName="MyComicRow" msprop:Generator_RowChangingName="MyComicRowChanging" msprop:Generator_RowEvArgName="MyComicRowChangeEvent" msprop:Generator_RowEvHandlerName="MyComicRowChangeEventHandler" msprop:Generator_TableClassName="MyComicDataTable" msprop:Generator_TableVarName="tableMyComic" msprop:Generator_RowDeletingName="MyComicRowDeleting" msprop:Generator_TablePropName="MyComic">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ComicName" msdata:Caption="Column1" msprop:Generator_UserColumnName="ComicName" msprop:Generator_ColumnVarNameInTable="columnComicName" msprop:Generator_ColumnPropNameInRow="ComicName" msprop:Generator_ColumnPropNameInTable="ComicNameColumn" type="xs:string" />
+              <xs:element name="Domain" msdata:Caption="Column1" msprop:Generator_UserColumnName="Domain" msprop:Generator_ColumnVarNameInTable="columnDomain" msprop:Generator_ColumnPropNameInRow="Domain" msprop:Generator_ColumnPropNameInTable="DomainColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ComicCode" msdata:Caption="Code used to get comic" msprop:Generator_UserColumnName="ComicCode" msprop:Generator_ColumnVarNameInTable="columnComicCode" msprop:Generator_ColumnPropNameInRow="ComicCode" msprop:Generator_ColumnPropNameInTable="ComicCodeColumn" type="xs:string" />
+              <xs:element name="DateFormat" msdata:Caption="Column1" msprop:Generator_UserColumnName="DateFormat" msprop:Generator_ColumnVarNameInTable="columnDateFormat" msprop:Generator_ColumnPropNameInRow="DateFormat" msprop:Generator_ColumnPropNameInTable="DateFormatColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SundayExt" msdata:Caption="Column1" msprop:Generator_UserColumnName="SundayExt" msprop:Generator_ColumnVarNameInTable="columnSundayExt" msprop:Generator_ColumnPropNameInRow="SundayExt" msprop:Generator_ColumnPropNameInTable="SundayExtColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DailyExt" msdata:Caption="Column1" msprop:Generator_UserColumnName="DailyExt" msprop:Generator_ColumnVarNameInTable="columnDailyExt" msprop:Generator_ColumnPropNameInRow="DailyExt" msprop:Generator_ColumnPropNameInTable="DailyExtColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UrlFormat" msdata:Caption="Column1" msprop:Generator_UserColumnName="UrlFormat" msprop:Generator_ColumnVarNameInTable="columnUrlFormat" msprop:Generator_ColumnPropNameInRow="UrlFormat" msprop:Generator_ColumnPropNameInTable="UrlFormatColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SundayAvail" msprop:Generator_UserColumnName="SundayAvail" msprop:Generator_ColumnVarNameInTable="columnSundayAvail" msprop:Generator_ColumnPropNameInRow="SundayAvail" msprop:Generator_ColumnPropNameInTable="SundayAvailColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="OneOfMyComics" msprop:Generator_UserColumnName="OneOfMyComics" msprop:Generator_ColumnVarNameInTable="columnOneOfMyComics" msprop:Generator_ColumnPropNameInRow="OneOfMyComics" msprop:Generator_ColumnPropNameInTable="OneOfMyComicsColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="DaysAvailable" msprop:Generator_UserColumnName="DaysAvailable" msprop:Generator_ColumnVarNameInTable="columnDaysAvailable" msprop:Generator_ColumnPropNameInRow="DaysAvailable" msprop:Generator_ColumnPropNameInTable="DaysAvailableColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MyComic" />
+      <xs:field xpath="mstns:ComicName" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

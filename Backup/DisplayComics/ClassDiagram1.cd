@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="DisplayComics.DisplayComicSeries">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DisplayComicSeries.cs</FileName>
+      <HashCode>DOhDl+BzGiQAJQIngKCFjBqGUACkQ7AwkLZCAhWpBAo=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayComics.formControlPanel">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>BSMAANVRgCgADlY4EALEjKByMBGgRuQA0Mo1CQAIlQk=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayComics.ListOfFiles">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ListOfFiles.cs</FileName>
+      <HashCode>AAgAABAAAAIEQAIAAAAAAAAAAAIAAEBAAAAEAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayComics.MyComics" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MyComics.cs</FileName>
+      <HashCode>AAEAAAAAAwAAAAJCBQAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Class Name="DisplayComics.MyComics.MyComicDataTable" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyComics.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Delegate Name="DisplayComics.MyComics.MyComicRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="DisplayComics.MyComics.MyComicRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="DisplayComics.MyComics.MyComicRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+  </Class>
+  <Class Name="DisplayComics.PictureDisplay">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PictureDisplay.cs</FileName>
+      <HashCode>QCBAgoBAACAgEkAAgACQgBCCAogwAAYBgIAAABgAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayComics.Program" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayComics.Properties.Resources" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayComics.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
